@@ -1,0 +1,17 @@
+cara bikin repository
+1. bikin folder dan tambahkan repositori\tesgit\file txt
+2. klik kanan didalam folder yg dibikin Git bash here
+3. git config --global user.email "wamroatuhu@gmail.com"
+4. git init
+5. git add .
+6. copikan git remote add origin https://github.com...
+7. git commit -m "first commit"
+8. jadikan master :
+9. git push -u origin master
+10. setiap ada penambahan file: git add.
+11. beri keterangan : git commit -m "perubahan ke 1"
+12. kemudian push ke github : git push
+13. refresh di github
+14. untuk menghapus dan update di folder
+15. git add. kemudian git pull
+
